@@ -131,4 +131,3 @@ if uploaded_file is not None:
         st.info(f"🔍 **Prediction using {model_name}**: {pred_label}")
 
 st.markdown("---")
-st.caption("Developed by Durga Sai using Streamlit & Scikit-learn")
