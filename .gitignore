@@ -6,6 +6,10 @@ dataset/
 
 venv/
 
+models/
+
+accuracies.json
+
 
 
 
